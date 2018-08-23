@@ -22,6 +22,7 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
+  - {name: 'Medical Translation', link: '/translation'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
