@@ -23,6 +23,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Medical Translation', link: '/translation'}
+    - {name: 'Regulatory Strategy', link: '/strategy'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
