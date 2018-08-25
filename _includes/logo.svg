@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="26.458334mm"
-   height="26.897566mm"
-   viewBox="0 0 26.458334 26.897567"
+   width="54.639309"
+   height="52.092545"
+   viewBox="0 0 23.130641 22.052511"
    version="1.1"
    id="svg5396"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="drawing3.svg">
+   sodipodi:docname="logos2.svg">
   <defs
      id="defs5390">
     <clipPath
@@ -35,8 +35,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="-63.109545"
-     inkscape:cy="68.464329"
+     inkscape:cx="-66.603164"
+     inkscape:cy="24.452385"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,13 @@
      inkscape:window-height="1057"
      inkscape:window-x="2552"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     units="px"
+     scale-x="1.6"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5393">
     <rdf:RDF>
@@ -61,7 +67,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-14.784508,-199.25154)">
+     transform="translate(-16.448344,-201.89739)">
     <g
        id="g5416"
        transform="matrix(0.05589885,0,0,-0.05589885,35.495099,208.71829)">
